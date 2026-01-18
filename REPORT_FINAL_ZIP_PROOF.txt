@@ -1,0 +1,79 @@
+WinRAR
+WinRAR.ZIPtingOr
+WinRAR32
+WinRAR6
+WinRAR32
+WinRAR
+WinRARe_
+WinRAR9-
+WinRAR.REVNETWeb
+WinRAR archiver
+WinRAR32
+WinRAR
+WinRAR32 
+WinRAR32
+WinRAR=
+WinRAR.exe
+WinRAR{
+D:\Projects\WinRAR\RarExt\build\64\Release\rarext.pdb
+C:\Program Files\WinRAR\Rar.txt
+WinRAR
+WinRAR.lnk
+WinRAR
+WinRAR.lnk
+WinRAR
+WinRAR.lnk
+WinRAR
+WinRAR.lnk
+WinRAR
+C:\Program Files\WinRAR\Rar.txt
+WinRAR.lnk
+WinRAR
+WinRAR.chm
+C:\Program Files\WinRAR\WinRAR.chm
+WinRAR
+WinRAR.exe
+C:\Program Files\WinRAR\WinRAR.exe
+WinRAR
+WinRAR.exe
+C:\Program Files\WinRAR\WinRAR.exe
+  name="WinRAR"
+<description>WinRAR archiver
+WinRAR
+C:\Program Files\WinRAR\Rar.txt
+WinRAR
+C:\Program Files\WinRAR\WhatsNew.txt
+WinRAR
+WinRAR.lnk
+WinRAR.exe
+WinRAR.exe
+  name="WinRAR SFX"
+<description>WinRAR SFX module</description>
+WinRAR
+WinRAR
+WinRAR.exe
+WinRAR.exe
+WinRAR
+WinRAR
+WinRAR.	
+WinRAR.lnk
+WinRAR.lnk
+WinRAR.lnk
+WinRAR.exe
+WinRAR.exe
+WinRAR
+WinRAR
+Roshal.WinRAR.WinRAR
+WinRAR
+C:\Users\Abo-Ali\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnk
+liC:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnknkp
+soft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnk
+WinRAR.ZIP
+WinRAR SFX
+C%%Program Files%WinRAR
+WinRAR
+WinRAR
+WinRAR.lnk
+WinRAR
+WinRAR.lnk
+Roshal.WinRAR.WinRAR

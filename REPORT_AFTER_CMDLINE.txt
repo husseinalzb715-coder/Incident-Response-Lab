@@ -1,0 +1,44 @@
+Volatility 3 Framework 2.27.0
+
+PID	Process	Args
+
+4	System	-
+276	smss.exe	\SystemRoot\System32\smss.exe
+368	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+420	wininit.exe	wininit.exe
+432	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+488	winlogon.exe	winlogon.exe
+508	services.exe	C:\Windows\system32\services.exe
+540	lsass.exe	C:\Windows\system32\lsass.exe
+548	lsm.exe	C:\Windows\system32\lsm.exe
+652	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch
+716	VBoxService.ex	C:\Windows\System32\VBoxService.exe
+784	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS
+884	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+920	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+952	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService
+976	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs
+1044	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService
+1164	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+1204	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+1328	svchost.exe	C:\Windows\System32\svchost.exe -k utcsvc
+1416	taskhost.exe	"taskhost.exe"
+1588	dwm.exe	"C:\Windows\system32\Dwm.exe"
+1624	explorer.exe	C:\Windows\Explorer.EXE
+1012	VBoxTray.exe	"C:\Windows\System32\VBoxTray.exe" 
+1272	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+2992	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+2244	sppsvc.exe	C:\Windows\system32\sppsvc.exe
+2272	svchost.exe	C:\Windows\System32\svchost.exe -k secsvcs
+2324	wmpnetwk.exe	"C:\Program Files\Windows Media Player\wmpnetwk.exe"
+2796	TrustedInstall	C:\Windows\servicing\TrustedInstaller.exe
+1428	wuauclt.exe	"C:\Windows\system32\wuauclt.exe"
+1424	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+2864	audiodg.exe	C:\Windows\system32\AUDIODG.EXE 0x71c
+2792	cmd.exe	"C:\Windows\System32\cmd.exe" 
+1768	conhost.exe	\??\C:\Windows\system32\conhost.exe "1042685015118378021-1575385104-166313314-717588493-482938603-5139246591607215267
+1732	SearchProtocol	"C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe10_ Global\UsGthrCtrlFltPipeMssGthrPipe10 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon" 
+2800	SearchFilterHo	"C:\Windows\system32\SearchFilterHost.exe" 0 512 516 524 65536 520 
+2564	DumpIt.exe	"C:\Tools\Comae-Toolkit-v20230117\x64\DumpIt.exe" 
+688	conhost.exe	\??\C:\Windows\system32\conhost.exe "-386920079-900070410-632469558-151151221975875977010249833483780846581886432756
+1520	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe

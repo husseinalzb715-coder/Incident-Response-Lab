@@ -1,0 +1,36 @@
+Volatility 3 Framework 2.27.0
+
+PID	Process	Args
+
+4	System	-
+276	smss.exe	\SystemRoot\System32\smss.exe
+360	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+404	wininit.exe	wininit.exe
+424	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+468	services.exe	C:\Windows\system32\services.exe
+500	winlogon.exe	winlogon.exe
+532	lsass.exe	C:\Windows\system32\lsass.exe
+540	lsm.exe	C:\Windows\system32\lsm.exe
+632	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch
+692	VBoxService.ex	C:\Windows\System32\VBoxService.exe
+776	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS
+856	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+912	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+944	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService
+980	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs
+200	audiodg.exe	C:\Windows\system32\AUDIODG.EXE 0x2c8
+1064	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService
+1216	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+1260	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+1372	taskhost.exe	"taskhost.exe"
+1456	dwm.exe	"C:\Windows\system32\Dwm.exe"
+1480	explorer.exe	C:\Windows\Explorer.EXE
+1548	svchost.exe	C:\Windows\System32\svchost.exe -k utcsvc
+1644	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+2008	VBoxTray.exe	"C:\Windows\System32\VBoxTray.exe" 
+2372	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+2568	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+2940	WMIADAP.exe	wmiadap.exe /R /T
+2808	DumpIt.exe	"C:\Tools\Comae-Toolkit-v20230117\x64\DumpIt.exe" 
+2824	conhost.exe	\??\C:\Windows\system32\conhost.exe "18262927761354882778179137383365859000-783879360562448449-1531142746-1772545463
+1088	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
