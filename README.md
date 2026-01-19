@@ -17,6 +17,6 @@ This project demonstrates real cyber attacks and detection techniques using Kali
 - Brute Force: https://youtu.be/gkq0K5oJq4A
 - DOS Attack: https://youtu.be/HGhpc6va9Co
 - Slowloris: https://youtu.be/hnkKDJlGOtQ
-- Zip Bomb: https://youtu.be/2AAKJeakAYA
+- Zip Bomb: https://youtu.be/B8iLJ98o4SQ
 - Ransomware: https://youtu.be/aoAwH3isIFs
-- Dumpit fail: https://youtu.be/1eH0CTx2YBU
+- Dumpit fail: https://youtu.be/5EeRl4vqqKM
